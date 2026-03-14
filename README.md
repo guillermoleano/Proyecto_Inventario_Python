@@ -1,8 +1,6 @@
 
-# DIAGRAMA DE FLUJO
-![image alt](https://github.com/guillermoleano/RIWI_ENTREGABLE/blob/cd1a7cb7e00823d7b78bc85b83291f59f9247a56/DIAGRAMA%20DE%20FLUJO.jpg)
-
-
+# DIAGRAMA DE FLUJO DEL PROYECTO: REGISTRO DE UN PRODUCTO EN UN INVENTARIO
+![image alt](https://github.com/guillermoleano/RIWI_ENTREGABLE/blob/a79296a5366628a054846d19a026f8b96fed3da3/Diagram.jpg)
 
 ## 🚀 Cómo clonar y ejecutar el proyecto
 
@@ -32,7 +30,7 @@ Nombre del producto
 Precio
 Cantidad***
 
-# EXPLICACION DEL PROYECTO: REGISTRO DE UN PRODUCTO EN UN INVENTARIO
+# EXPLICACION DEL CODIGO
 
 1. Aqui se definen las variables para el nombre del producto, la cantidad y el precio, se asignan los tipos de datos correspondientes a cada variable. 
 
