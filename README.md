@@ -2,11 +2,37 @@
 # DIAGRAMA DE FLUJO
 ![image alt](https://github.com/guillermoleano/RIWI_ENTREGABLE/blob/cd1a7cb7e00823d7b78bc85b83291f59f9247a56/DIAGRAMA%20DE%20FLUJO.jpg)
 
-Como clonar, como ejecutar y como probar mi proyecto 
+
+
+### 🚀 Cómo clonar y ejecutar el proyecto
+
+### 1. Clonar el repositorio
+    
+    1. Abre **Visual Studio Code**.
+    2. Abre la **terminal** (Terminal → New Terminal).
+    3. Copia y ejecuta el siguiente comando para clonar el repositorio:
+       ```bash
+    git clone https://github.com/guillermoleano/RIWI_ENTREGABLE.git ```
+
+### 2. Entrar a la carpeta del proyecto
+
+Después de clonar el repositorio, accede a la carpeta del proyecto con el siguiente comando:
+
+cd RIWI_ENTREGABLE
+
+### 3. Ejecutar el proyecto
+Para ejecutar el programa, usa el siguiente comando en la terminal:
+```bash
+python inventario.py ```
+
+***El programa se ejecutará en la terminal y te pedirá ingresar:
+Nombre del producto
+Precio
+Cantidad***
 
 
 
-# REGISTRO DE UN PRODUCTO EN UN INVENTARIO
+# EXPLICACION DEL PROYECTO: REGISTRO DE UN PRODUCTO EN UN INVENTARIO
 
 1. Aqui se definen las variables para el nombre del producto, la cantidad y el precio, se asignan los tipos de datos correspondientes a cada variable. 
 
